@@ -64,15 +64,20 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				ocean: {
-					DEFAULT: '#0EA5E9',
-					dark: '#1A1F2C',
-					light: '#33C3F0'
+					DEFAULT: '#00d4ff',
+					bright: '#00f0ff',
+					dark: '#0088aa'
 				},
-				coffee: {
-					DEFAULT: '#8E9196',
-					brown: '#6B5D4F'
+				neon: {
+					purple: '#b65cff',
+					pink: '#ff3d8f',
+					yellow: '#ffd942'
 				},
-				foam: '#FFFFFF'
+				dark: {
+					DEFAULT: '#111111',
+					card: '#1a1a1a',
+					muted: '#2a2a2a'
+				}
 			},
 			borderRadius: {
 				lg: 'var(--radius)',

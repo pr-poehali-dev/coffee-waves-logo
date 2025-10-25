@@ -9,9 +9,9 @@ const Index = () => {
         <div className="text-center mb-16 animate-fade-in">
           <div className="mb-8 flex justify-center animate-float">
             <img 
-              src="https://cdn.poehali.dev/projects/1e9b7a7e-6c67-4b78-a2cd-f12362e74003/files/9e8510d6-682a-4625-b5bd-da5f20496bd3.jpg"
+              src="https://cdn.poehali.dev/projects/1e9b7a7e-6c67-4b78-a2cd-f12362e74003/files/e02440f8-0602-415a-af06-75d0fb6d2bf3.jpg"
               alt="Прилив кофе - Логотип"
-              className="w-48 h-48 object-contain rounded-3xl shadow-2xl glow-primary"
+              className="w-64 h-64 object-contain rounded-3xl glow-primary"
             />
           </div>
           <h1 className="text-7xl font-extrabold mb-4 bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
